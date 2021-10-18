@@ -1,5 +1,11 @@
 # 課題
-FizzBuzz
+FizzBuzzプログラムを作成してください。
+`lib/fizz_buzz.rb`の`fizz_buzz`メソッドを完成させてください。
+
+
+**FizzBuzzとは**
+渡された引数が3の倍数のときは**Fizz**、5の倍数のときは**Buzz**、3と5の公倍数のときは**FizzBuzz**を返すプログラム
+
 
 # 環境構築
 rubyのバージョンは`.ruby-version`を確認してください
